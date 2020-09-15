@@ -51,7 +51,13 @@ function getMovies(searchInput){
       return response.json();
     }
   })
-  .then (response => response.Search);
+  .then (response => {
+    if (response.Response==="false"){
+      throw new Error(response.Error);
+    } else {
+      return response.Search
+    }
+  });
 }
 
 function showCard(m){
