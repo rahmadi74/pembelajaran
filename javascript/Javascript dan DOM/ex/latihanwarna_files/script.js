@@ -1,5 +1,6 @@
 const bUbahWarna = document.getElementById('ubahWarna');
 bUbahWarna.onclick = function(){
+	bUbahWarna.removeAttribute('style');
     document.body.classList.toggle('biru-muda');
 }
 const bAcakWarna = document.createElement('button');
