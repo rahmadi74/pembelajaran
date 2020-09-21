@@ -1,0 +1,15 @@
+div{
+    width: 300px;
+    height: 300px;
+    background-color: #39b54a;
+    margin: 50px auto;
+    /* box-shadow: 5px 5px 10px 5px rgba(0,0,0,.75);  ->shadow akan bertambah 5px*/ 
+    /* box-shadow: 0 0 0 10px rgba(0,0,0,0.75); ->kotak seolah-olah punya border 10px*/
+    box-shadow: 0 30px 10px -20px rgba(0,0,0,.75); /*efek cantik bayangan dibawah*/
+    transition: .3s; /*waktu transisi perubahan div:hover*/
+}
+/* Menambahkan efek ketika mouse pada div */
+div:hover{ 
+    box-shadow: 0 70px 10px -40px rgba(0,0,0,.15);
+    margin-top: 40px;
+}
