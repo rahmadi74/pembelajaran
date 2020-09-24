@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Alex Brush';
+    src: url('font/AlexBrush-Regular.ttf') format('truetype');
+    /* src: url('lokasi/file/fontBaru.woff') format('woff');
+    src: url('lokasi/file/fontBaru.eot');
+    src: url('lokasi/file/fontBaru.eot?#eifix') format('embedded-opentype');
+    src: url('lokasi/file/fontBaru.woff2') format('woff2'); 
+    src: url('lokasi/file/fontBaru.svg#svgFontName') format('svg');*/
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Alex Brush',Arial;
+}

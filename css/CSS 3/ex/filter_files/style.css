@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+img{
+    filter: brightness(140%); /* 1.4 */
+}
+/* filter:
+        blur(px)
+        brightness(angka|%)   ->100% default, membuat gambar lebih cerah
+        contrast(angka|%)     ->100% default
+        saturate(angka|%)     ->100% default, membuat gambar lebih berwarna
+        grayscale(angka|%)    -> 0-1 atau 0 - 100%
+        sepia(angka|%)        -> 0-1 atau 0 - 100%
+        hue-rotate(angka|%)
+        invert(angka|%)
+        opacity(angka|%)      -> 0-1 atau 0 - 100%
+        drop-shadow(angka|%) 
+        */

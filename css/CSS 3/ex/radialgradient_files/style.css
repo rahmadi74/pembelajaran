@@ -1,0 +1,11 @@
+div{
+    width: 600px;
+    height: 300px;
+    margin: 50px auto;
+    /* background-image: radial-gradient(red 10%,green 30%,blue 80%); */
+    /* background-image: radial-gradient(circle closest-side, red, blue); */
+    /* background-image: radial-gradient(circle farthest-corner, red, blue); */
+    /* background-image: radial-gradient(circle farthest-side at top left, red, blue); */
+    background-image: radial-gradient(circle farthest-corner at 30px 50px, red, blue);
+
+} 
