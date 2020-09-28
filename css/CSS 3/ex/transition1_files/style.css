@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 900px;
+    margin:10px auto;
+    border: 5px solid black;
+}
+.kotak{
+    width: 100px;
+    height: 100px;
+    background-color: salmon;
+    /* transition: 1s; */
+    transition: all 1s;
+    /* transition: margin-left 1s; */
+}
+.container:hover .kotak{
+    transform: rotate(765deg);
+    margin-left: 800px;
+    background-color: royalblue;
+}

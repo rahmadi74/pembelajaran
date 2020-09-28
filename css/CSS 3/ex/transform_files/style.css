@@ -1,0 +1,25 @@
+body{
+    font-size: 20px;
+    text-align: center;
+}
+
+/* 
+scale(angka), scaleX(angka), scaleY(angka)
+rotate(deg), rotateX(deg), rotateY(deg)
+skew(deg), skewX(deg), skewY(deg)
+*/
+
+.kotak{
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    margin: 50px auto 0;
+    transition: 1s;
+}
+.kotak:hover{
+    /* transform: scale(1.5);  */
+    /* transform: scale(1.5,2); */
+    /* transform: scaleX(1.5) scaleY(2); */
+    /* transform: translate(30px,50px); */
+    transform: scale(3) rotate(360deg);
+}

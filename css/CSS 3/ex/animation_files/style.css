@@ -1,0 +1,28 @@
+.kotak{
+    width: 200px;
+    height: 200px;
+    background-color: salmon;
+    animation: animasiKotak 1s ease 3 alternate forwards;
+}
+
+/* @keyframes animasiKotak {
+    from{
+        width: 200px;
+    }
+    to{
+        width: 500px;
+    }
+} */
+@keyframes animasiKotak {
+    0%{
+        width: 200px;
+    }
+    50%{
+        width: 500px;
+        height: 200px;
+    }
+    100%{
+        width: 500px;
+        height: 500px;
+    }
+}
