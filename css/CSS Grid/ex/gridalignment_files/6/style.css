@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 80%;
+  height: 500px;
+  background-color: yellow;
+  margin: 30px auto;
+  display: grid;
+  grid-template-columns: 120px 120px 120px;
+  grid-template-rows: 80px 80px 80px;
+  gap: 5px;
+
+  /* align-content: center;
+  justify-content: center; */
+
+  /* place-content: center center; */
+  /* place-content: center; */
+
+  /* place-content: center end; */
+  /* place-content: start end; */
+  place-content: stretch center;
+}
+
+.items {
+  width: 100px;
+  height: 50px;
+  border: 3px solid black;
+  background-color: lightblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
