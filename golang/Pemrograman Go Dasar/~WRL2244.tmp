@@ -16,16 +16,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Windows 7</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>MUHAMMAD RAHMADI</o:LastAuthor>
-  <o:Revision>12</o:Revision>
-  <o:TotalTime>35</o:TotalTime>
+  <o:Revision>11</o:Revision>
+  <o:TotalTime>30</o:TotalTime>
   <o:Created>2021-03-09T06:15:00Z</o:Created>
-  <o:LastSaved>2021-04-01T00:31:00Z</o:LastSaved>
+  <o:LastSaved>2021-03-31T23:50:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>59</o:Words>
-  <o:Characters>338</o:Characters>
+  <o:Words>53</o:Words>
+  <o:Characters>305</o:Characters>
   <o:Lines>2</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>396</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>357</o:CharactersWithSpaces>
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -617,15 +617,10 @@ style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Seleksi Kondisi <a href="ex/seleksi_kondisi.htm">ex</a></p>
 
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l0 level1 lfo2'><![if !supportLists]><span
 style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Perulangan <a href="ex/perulangan.htm">ex</a></p>
-
-<p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l0 level1 lfo2'><![if !supportLists]><span
-style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
-style='mso-list:Ignore'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Array <a href="ex/array.htm">ex</a></p>
 
 </div>
 
