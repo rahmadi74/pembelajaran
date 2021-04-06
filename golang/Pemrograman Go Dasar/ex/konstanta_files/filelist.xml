@@ -1,6 +1,9 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile HRef="../konstanta.htm"/>
+<<<<<<< HEAD
  <o:File HRef="preview.wmf"/>
+=======
+>>>>>>> de0816247a3efafc164bee2e534ae461d41ce34b
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
  <o:File HRef="filelist.xml"/>
